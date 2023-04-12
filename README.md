@@ -17,14 +17,3 @@
  </div>
   
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SilvioCressoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SilvioCressoni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioCressoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SilvioCressoni&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![image](https://user-images.githubusercontent.com/130615295/231608477-e271717c-6130-4b96-888c-da8134dfd171.png)
-
